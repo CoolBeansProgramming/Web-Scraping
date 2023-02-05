@@ -47,10 +47,6 @@ def find_jobs():
             df = pd.DataFrame(fields)
             df.to_excel('jobs.xlsx')
             
-            
-            
-    
-        
-            
+
 if __name__ == '__main__':
     find_jobs()
