@@ -7,6 +7,8 @@ bin-release/
 # Other files and folders
 .settings/
 webScrape1/
+tempCodeRunnerFile.py
+tempCodeRunnerFile.python
 
 # Executables
 *.swf
